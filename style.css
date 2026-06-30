@@ -71,6 +71,12 @@ html{
   gap: 15px;
 }
 
+.card .links i{
+  font-size: 15px;
+  padding-right: 5px;
+}
+
+
 .intro{
   height: 100vh;
   width: 100%;
@@ -112,7 +118,6 @@ html{
   font-weight: 600;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 }
-
 
 .intro .enter:hover{
   background: hsl(277, 45%, 44%);
